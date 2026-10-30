@@ -1,3 +1,18 @@
+# Password Generator | Review Exercise Scaffold
+
+A course assignment for building a browser-based password-generation exercise. The provided page connects a button to an expected function, but the character array, length value, and generation function remain unimplemented.
+
+## Skills & Learning Outcomes
+
+- Translate written acceptance criteria into code.
+- Use arrays, loops, and functions to generate text.
+- Connect a button event to a DOM update.
+- Check output against length and display requirements.
+
+[Review the scaffold](script.js). This folder preserves an exercise prompt; the [separate password-generator implementation](../password-generator/README.md) provides related practice code.
+
+## Original Assignment Instructions
+
 # Instructions
 1. Please re-style the css to make it your own WITHOUT changing the HTML page
 2. Please go to the script.js file and read and follow the commented instructions
@@ -22,3 +37,6 @@
 2. If the user inputs over 50 characters, then there must be a second alert giving an error message.
 3. The alert should start over asking th euser to input their character limit after the error message.
 4. Number of characters in returned randomized password must reflect the length specified by user. 
+
+
+[Back to project directory](../README.md)
