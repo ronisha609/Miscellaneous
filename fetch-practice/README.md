@@ -1,3 +1,18 @@
+# Fetch API | Request & Response Exercise
+
+A guided JavaScript exercise intended to request user data and inspect the response. The current source is a scaffold: the fetch argument and response handlers still need implementation.
+
+## Skills & Learning Outcomes
+
+- Understand how a URL is passed to a request.
+- Convert a response into JSON.
+- Work with promise chains and error handling.
+- Inspect returned data in the browser console.
+
+[Read the scaffold](app.js) before following the original task below. These are learning objectives, not claims of a working integration. The external endpoint was not tested in this review.
+
+## Original Exercise Instructions
+
 # learnersFetchPractice
 
 
@@ -9,3 +24,6 @@ How and what you display to the console is up to you, you may display just names
 The only requirement is that you must display something that you retrieved from the above url.
 
 You will have 30 minutes to complete this activity.
+
+
+[Back to project directory](../README.md)
