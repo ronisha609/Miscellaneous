@@ -2,6 +2,12 @@
 
 An early pet-business page exploring headings, images, navigation, forms, links, and inline styling.
 
+## Skills & Learning Outcomes
+
+- Organize page content with headings, sections, images, and links.
+- Explore forms, navigation, and inline styling.
+- Understand why valid markup and portable file paths matter when sharing a project.
+
 ## Learning Context
 
 Preserved as an early HTML exercise. The source contains malformed markup, placeholder actions, and a machine-specific stylesheet path. It is a historical practice sample rather than a finished website.
