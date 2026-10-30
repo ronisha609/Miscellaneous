@@ -1,3 +1,18 @@
+# Task Planner | Junior Web Developer Course Project
+
+Course material for building a task-planning web application through ten staged tasks. The folders contain instructions and example implementations rather than evidence here of a separately delivered final application.
+
+## Skills & Learning Outcomes
+
+- Translate a project brief into smaller development tasks.
+- Connect page structure and styling with JavaScript behavior.
+- Read task-management examples and compare them with requirements.
+- Understand how sprints, demos, and retrospectives organize team development.
+
+For learners, follow the numbered task folders in order. For hiring teams, the teamwork and presentation sections below describe course expectations; they do not independently verify Ronisha’s individual contribution to a team deliverable.
+
+## Original Course Brief
+
 # Junior Web Developer - Final Project - Task Planner Web App
 
 
@@ -17,3 +32,6 @@
 
 **Assessment**
 In each task you will be assessed by the instructors on the “Assessment Criteria” in this rubric: https://docs.google.com/spreadsheets/d/1_VMo3WFZCnZh2vCX4kTgh2xeOWmZ4xDkrzrrffesyQQ/edit?usp=sharing
+
+
+[Back to project directory](../README.md)
