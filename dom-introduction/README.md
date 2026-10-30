@@ -1,3 +1,18 @@
+# DOM Manipulation | Guided Web Exercises
+
+A collection of instructor demos and student activities showing how JavaScript selects and changes elements in a web page.
+
+## Skills & Learning Outcomes
+
+- Find elements with DOM selectors.
+- Change styles and attributes through JavaScript.
+- Compare finished demonstrations with practice tasks.
+- Trace how HTML structure connects to JavaScript behavior.
+
+Start with a demo folder, then work through the student activities. These are guided course exercises, not a single finished application.
+
+## Original Exercise Instructions
+
 # The Document Object Model
 For this introductory session, you will be actively using DOM Manipulation.
 You will use methods such as 
@@ -15,3 +30,5 @@ You are provided finished demos along with practice problems to help solidify so
 
 
 Please use the REAME.md files in your studentActivity folders to get the instructions required to do each activity's tasks.
+
+[Back to project directory](../README.md)
