@@ -1,4 +1,4 @@
-# GitHub Learning Lab | Collaboration Fundamentals
+# GitHub Collaboration Lab | Repository Workflow
 
 Guided introductory GitHub course material using a slideshow project. The original course instructions and reveal.js credit are preserved below.
 
@@ -9,7 +9,7 @@ Guided introductory GitHub course material using a slideshow project. The origin
 - Read Markdown-based project documentation.
 - Follow guided repository activities and review changes.
 
-This is a course archive. The bot instructions below describe the original learning experience; they are not a promise of an active bot or deployed slideshow in this consolidated repository.
+This course archive preserves the original repository workflow. The bot instructions below document the guided exercise and do not claim an active bot or deployed slideshow in this consolidated repository.
 
 ## Original Course Instructions & Attribution
 
