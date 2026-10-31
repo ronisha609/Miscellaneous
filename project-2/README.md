@@ -1,11 +1,11 @@
 # Corky Corgi’s | Early HTML Practice
 
-An early pet-business page exploring headings, images, navigation, forms, links, and inline styling.
+An early pet-business page that assembles headings, images, navigation, forms, links, and inline styling.
 
-## Skills & Learning Outcomes
+## Capabilities Demonstrated
 
 - Organize page content with headings, sections, images, and links.
-- Explore forms, navigation, and inline styling.
+- Build and inspect forms, navigation, and inline styling.
 - Understand why valid markup and portable file paths matter when sharing a project.
 
 ## Learning Context
