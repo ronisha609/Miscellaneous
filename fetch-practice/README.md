@@ -2,9 +2,9 @@
 
 A guided JavaScript exercise intended to request user data and inspect the response. The current source is a scaffold: the fetch argument and response handlers still need implementation.
 
-## Skills & Learning Outcomes
+## Capabilities Demonstrated
 
-- Understand how a URL is passed to a request.
+- Trace how a URL enters and drives a request.
 - Convert a response into JSON.
 - Work with promise chains and error handling.
 - Inspect returned data in the browser console.
@@ -13,7 +13,7 @@ A guided JavaScript exercise intended to request user data and inspect the respo
 
 ## Original Exercise Instructions
 
-# learnersFetchPractice
+# Fetch Practice Exercise
 
 
 You will be using your fetch skills in this exercise!
