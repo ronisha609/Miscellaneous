@@ -1,4 +1,4 @@
-# Password Generator | JavaScript Learning Exercise
+# Password Generator | JavaScript Event Workflow
 
 An early browser-based exercise using a character array, a loop, and a button event to generate text and display it in an input field.
 
@@ -8,7 +8,7 @@ JavaScript functions, arrays, iteration, random selection, DOM updates, and even
 
 ## Review Notes
 
-The source uses `Math.random()` and includes a multi-character `n,` array entry. This is a learning exercise, not a security-grade password generator; the output length can differ from the intended 12 characters. Runtime behavior was not tested in this documentation review.
+The source uses `Math.random()` and includes a multi-character `n,` array entry. This is a guided implementation, not a security-grade password generator; the output length can differ from the intended 12 characters. Runtime behavior was not tested in this documentation review.
 
 ## Project Files
 
