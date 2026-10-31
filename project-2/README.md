@@ -1,4 +1,4 @@
-# Corky Corgi’s | Early HTML Practice
+# Corky Corgi’s | HTML Interface Foundation
 
 An early pet-business page that assembles headings, images, navigation, forms, links, and inline styling.
 
@@ -6,10 +6,10 @@ An early pet-business page that assembles headings, images, navigation, forms, l
 
 - Organize page content with headings, sections, images, and links.
 - Build and inspect forms, navigation, and inline styling.
-- Understand why valid markup and portable file paths matter when sharing a project.
+- Validate markup and portable file paths before sharing a project.
 
-## Learning Context
+## Validation Context
 
-Preserved as an early HTML exercise. The source contains malformed markup, placeholder actions, and a machine-specific stylesheet path. It is a historical practice sample rather than a finished website.
+Preserved as an early HTML exercise. The source contains malformed markup, placeholder actions, and a machine-specific stylesheet path. It is a historical implementation rather than a finished website.
 
 [View the HTML](Project2.html) · [Back to project directory](../README.md)
