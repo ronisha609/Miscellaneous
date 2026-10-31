@@ -2,10 +2,10 @@
 
 Guided introductory GitHub course material using a slideshow project. The original course instructions and reveal.js credit are preserved below.
 
-## Skills & Learning Outcomes
+## Capabilities Demonstrated
 
 - Navigate a repository and its files.
-- Understand how issues and pull requests support collaboration.
+- Execute issue and pull-request steps that support repository collaboration.
 - Read Markdown-based project documentation.
 - Follow guided repository activities and review changes.
 
