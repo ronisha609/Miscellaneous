@@ -1,4 +1,4 @@
-# Random Quote Generator | API & JavaScript Practice
+# Random Quote Generator | API & Async JavaScript
 
 A browser exercise that separates requesting quote data from selecting a quote to display. The source includes earlier approaches as comments alongside asynchronous request and selection functions.
 
@@ -13,8 +13,8 @@ A browser exercise that separates requesting quote data from selecting a quote t
 
 [JavaScript](app.js) · [Page markup](index.html) · [Styles](styles.css)
 
-## Learning Context
+## Validation Context
 
-An early practice implementation. The external quote API and browser behavior were not tested during this documentation update. The documented flow exposes what happens when a request returns no usable data before the selection function runs.
+An early implementation. The external quote API and browser behavior were not tested during this documentation update. The documented flow exposes what happens when a request returns no usable data before the selection function runs.
 
 [Back to project directory](../README.md)
