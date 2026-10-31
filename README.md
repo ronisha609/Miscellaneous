@@ -1,12 +1,12 @@
-# Coding Foundations & Learning Projects | Ronisha Showers
+# Programming Foundations & Application Development Labs | Ronisha Showers
 
-This collection documents my early work with web development and programming. It brings together small interface builds, guided exercises, and course material exploring how web pages are structured, how user actions trigger code, and how applications request and display data.
+This lab portfolio builds the **programming foundation** behind my security, intelligence, and automation work. The collection covers interface development, application logic, browser interaction, API requests, data handling, debugging, and structured problem-solving.
 
-The projects provide context for the programming foundation behind my later security and automation work. They also give other learners examples to inspect, compare, and improve.
+Each lab captures a specific learning objective and shows how HTML, CSS, JavaScript, Python, or GitHub workflows turn requirements into working technical components. Completion status and known limitations are documented so learners and hiring teams can evaluate the evidence accurately.
 
 [Automation](https://github.com/ronisha609/Automation) · [Cybersecurity](https://github.com/ronisha609/CyberSecurity) · [Intelligence](https://github.com/ronisha609/Intelligence)
 
-## Skills & Learning Outcomes
+## Lab Skills & Outcomes
 
 | Skill area | Learning focus | Practical value |
 | --- | --- | --- |
@@ -17,9 +17,9 @@ The projects provide context for the programming foundation behind my later secu
 | APIs and asynchronous code | Fetch requests, JSON, promises, and async/await | Bringing external information into an application |
 | Development workflow | Project organization and GitHub course exercises | Reading existing code and working through requirements |
 
-## Project Directory
+## Development Lab Directory
 
-| Project | Purpose | Skills to explore | Context |
+| Lab | Development objective | Skills demonstrated | Evidence and context |
 | --- | --- | --- | --- |
 | [Quote Generator](quote-generator/README.md) | Request quote data and display a randomly selected entry | Fetch, async/await, JSON, arrays, DOM updates | Early implementation; known gaps documented |
 | [Password Generator](password-generator/README.md) | Practice generating text and displaying it after a button click | Functions, loops, arrays, event listeners | Learning exercise; not a security-grade password tool |
@@ -35,6 +35,6 @@ The projects provide context for the programming foundation behind my later secu
 
 ## How to Use This Collection
 
-Choose a project, read its overview, then follow the source links. Guided exercises retain their original instructions so learners can understand the intended task. Existing implementations and assignment scaffolds are labeled separately.
+Choose a lab, read its objective, then follow the source links. Guided exercises retain their original instructions so learners can understand the intended task. Existing implementations and assignment scaffolds are labeled separately.
 
-For hiring teams, this collection shows the starting point of my programming development. My current portfolio focus is in the Automation, CyberSecurity, and Intelligence collections above. These archived exercises have varying completion levels and were not retested as deployed applications during this documentation update.
+For hiring teams, these labs demonstrate the technical foundation supporting my more advanced Automation, CyberSecurity, and Intelligence work. The collection shows progression in coding logic, interface behavior, API use, troubleshooting, and development workflow. Completion status and testing limits remain visible within each lab.
