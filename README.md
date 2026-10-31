@@ -22,8 +22,8 @@ Each lab drives a defined requirement through implementation, debugging, and doc
 | Lab | Development objective | Capabilities demonstrated | Evidence and context |
 | --- | --- | --- | --- |
 | [Quote Generator](quote-generator/README.md) | Request quote data and display a randomly selected entry | Fetch, async/await, JSON, arrays, DOM updates | Early implementation; known gaps documented |
-| [Password Generator](password-generator/README.md) | Generate text and render it through a button-triggered event | Functions, loops, arrays, event listeners | Learning exercise; not a security-grade password tool |
-| [Random Quote Generator](random-quote-generator/README.md) | Implement a second approach to requesting and selecting quotes | Async functions, HTTP responses, error handling | Practice implementation; external API not verified |
+| [Password Generator](password-generator/README.md) | Generate text and render it through a button-triggered event | Functions, loops, arrays, event listeners | Guided implementation; not a security-grade password tool |
+| [Random Quote Generator](random-quote-generator/README.md) | Implement a second approach to requesting and selecting quotes | Async functions, HTTP responses, error handling | Early implementation; external API not verified |
 | [DOM Introduction](dom-introduction/README.md) | Select and modify page elements through JavaScript | DOM selectors, styles, attributes | Guided demos and student exercises |
 | [Fetch Practice](fetch-practice/README.md) | Construct and trace an API request | Fetch, promises, JSON, debugging | Incomplete assignment scaffold |
 | [Task Planner Course Project](jr-web-developer-final/README.md) | Execute staged requirements for a task-planning application | HTML/CSS, JavaScript, requirements, sprint planning | Course instructions and example implementations |
