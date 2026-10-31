@@ -1,6 +1,6 @@
 # Programming Foundations & Application Development Labs
 
-This high-impact development portfolio converts **programming fundamentals** into working components that power security, intelligence, and automation workflows. The collection implements interface development, application logic, browser interaction, API requests, data handling, debugging, and structured problem-solving.
+This development portfolio converts **programming fundamentals** into working components that power security, intelligence, and automation workflows. The collection implements interface development, application logic, browser interaction, API requests, data handling, debugging, and structured problem-solving.
 
 Each lab drives a defined requirement through implementation, debugging, and documented validation with HTML, CSS, JavaScript, Python, and GitHub workflows. Completion status, validation evidence, and known limitations remain visible within the work.
 
