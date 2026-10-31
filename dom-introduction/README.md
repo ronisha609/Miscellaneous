@@ -2,11 +2,11 @@
 
 A collection of instructor demos and student activities showing how JavaScript selects and changes elements in a web page.
 
-## Skills & Learning Outcomes
+## Capabilities Demonstrated
 
 - Find elements with DOM selectors.
 - Change styles and attributes through JavaScript.
-- Compare finished demonstrations with practice tasks.
+- Analyze finished demonstrations against hands-on tasks.
 - Trace how HTML structure connects to JavaScript behavior.
 
 Start with a demo folder, then work through the student activities. These are guided course exercises, not a single finished application.
