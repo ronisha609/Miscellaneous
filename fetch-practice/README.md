@@ -9,7 +9,7 @@ A guided JavaScript exercise intended to request user data and inspect the respo
 - Work with promise chains and error handling.
 - Inspect returned data in the browser console.
 
-[Read the scaffold](app.js) before following the original task below. These are learning objectives, not claims of a working integration. The external endpoint was not tested in this review.
+[Read the scaffold](app.js) before following the original task below. These are exercise objectives, not claims of a working integration. The external endpoint was not tested in this review.
 
 ## Original Exercise Instructions
 
