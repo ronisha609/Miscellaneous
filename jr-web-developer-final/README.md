@@ -2,14 +2,14 @@
 
 Course material for building a task-planning web application through ten staged tasks. The folders contain instructions and example implementations rather than evidence here of a separately delivered final application.
 
-## Skills & Learning Outcomes
+## Capabilities Demonstrated
 
 - Translate a project brief into smaller development tasks.
 - Connect page structure and styling with JavaScript behavior.
 - Read task-management examples and compare them with requirements.
-- Understand how sprints, demos, and retrospectives organize team development.
+- Map sprints, demos, and retrospectives to an organized development cycle.
 
-For learners, follow the numbered task folders in order. For hiring teams, the teamwork and presentation sections below describe course expectations; they do not independently verify Ronisha’s individual contribution to a team deliverable.
+The numbered task folders preserve the course sequence. Teamwork and presentation sections document course expectations and do not independently verify individual contribution to a team deliverable.
 
 ## Original Course Brief
 
