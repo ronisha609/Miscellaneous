@@ -2,7 +2,7 @@
 
 An early JavaScript exercise that requests quote data, selects a random entry, and writes the quote and author into the page.
 
-## Skills Demonstrated
+## Capabilities Demonstrated
 
 Fetch API, async/await, JSON parsing, arrays, random selection, and DOM updates.
 
