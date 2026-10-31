@@ -1,6 +1,6 @@
 # DOM Manipulation | Guided Web Exercises
 
-A collection of instructor demos and student activities showing how JavaScript selects and changes elements in a web page.
+A collection of instructor demos and student activities that execute JavaScript selection and page-element updates.
 
 ## Capabilities Demonstrated
 
@@ -9,7 +9,7 @@ A collection of instructor demos and student activities showing how JavaScript s
 - Analyze finished demonstrations against hands-on tasks.
 - Trace how HTML structure connects to JavaScript behavior.
 
-Start with a demo folder, then work through the student activities. These are guided course exercises, not a single finished application.
+Review a demo folder, then execute the student activities. These are guided course exercises, not a single finished application.
 
 ## Original Exercise Instructions
 
