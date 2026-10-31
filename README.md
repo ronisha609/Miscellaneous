@@ -1,8 +1,8 @@
 # Programming Foundations & Application Development Labs
 
-This development portfolio converts **programming fundamentals** into working components that power security, intelligence, and automation workflows. The collection implements interface development, application logic, browser interaction, API requests, data handling, debugging, and structured problem-solving.
+This portfolio builds working tools from **programming fundamentals** that support security, intelligence, and automation workflows. The collection executes interface development, application logic, browser interaction, API requests, data handling, debugging, and structured problem-solving.
 
-Each lab drives a defined requirement through implementation, debugging, and documented validation with HTML, CSS, JavaScript, Python, and GitHub workflows. Completion status, validation evidence, and known limitations remain visible within the work.
+Each lab turns a defined requirement into an implemented, debugged, and validated component using HTML, CSS, JavaScript, Python, and GitHub workflows. Completion status, validation evidence, and known limitations remain visible within the work.
 
 [Automation](https://github.com/ronisha609/Automation) · [Cybersecurity](https://github.com/ronisha609/CyberSecurity) · [Intelligence](https://github.com/ronisha609/Intelligence)
 
