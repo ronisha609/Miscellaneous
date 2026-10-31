@@ -2,7 +2,7 @@
 
 A course assignment for building a browser-based password-generation exercise. The provided page connects a button to an expected function, but the character array, length value, and generation function remain unimplemented.
 
-## Skills & Learning Outcomes
+## Capabilities Demonstrated
 
 - Translate written acceptance criteria into code.
 - Use arrays, loops, and functions to generate text.
