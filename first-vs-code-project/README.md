@@ -13,8 +13,8 @@ An early page-building lab that assembles navigation links, form fields, images,
 
 [Main page](index.html) · [About page](about.html) · [Stylesheet](resources/css/style.css)
 
-## Learning Context
+## Validation Context
 
-Preserved as an early practice sample. The main page includes malformed markup, an incomplete stylesheet reference, and placeholder form actions. It preserves source material for code inspection and correction rather than claiming a finished login system or deployed website.
+Preserved as an early implementation. The main page includes malformed markup, an incomplete stylesheet reference, and placeholder form actions. It preserves source material for code inspection and correction rather than claiming a finished login system or deployed website.
 
 [Back to project directory](../README.md)
